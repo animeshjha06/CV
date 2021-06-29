@@ -1,0 +1,28 @@
+body{
+    background-color:#e3fdfd;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width :5%
+}
+
+h1{
+    color: #71c9ce;
+    font-style: italic;
+}
+
+h3{
+    color: #71c9ce;
+}
+
+img{
+    border-radius: 50%;
+}
+
+.table{
+    background-color: whitesmoke;
+}
